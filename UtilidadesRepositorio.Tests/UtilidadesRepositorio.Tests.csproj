@@ -52,8 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="DivisionTests.cs" />
-    <Compile Include="SumaTests.cs" />
+    <Compile Include="UserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
